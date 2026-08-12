@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Bug Fixes
+
+-   Media Editor: Focus the dialog container when the editor modal opens.
+
 ## 0.16.0 (2026-08-12)
 
 
